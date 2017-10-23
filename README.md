@@ -24,11 +24,11 @@ To create a **Github Account** you would start by:
 
 #### **REMEMBER TO READ ALL DIRECTIONS**  
 * To enhance your experience with GitHub, answer a quick survey question as to who you are and submit your results. Don't worry you won't be graded on your experience!
-* Make sure you  **Read the Guide** if you are a new user or not !  
+* Make sure you  **Read the Guide** if you are a new user or not!  
 
 **NOTE**: you will be directed to a new tab explaining the basic fundementals and power of GitHub
 
-After reading the guidelines, you can head back to the previous tab and **start a project**    
+After reading the guidelines, you can head back to the previous tab and **start a project.**    
 **You may be asked to confirm your email**  
 
 How to make a repo:  
@@ -37,7 +37,7 @@ How to make a repo:
 3. `cd filename` - goes into your file 
 4. `git init` - initalizes git in the directory  
 
-**SSH key:** stands for secure shell and establishes a secure connection between your computer and GitHubcd
+**SSH key:** stands for secure shell and establishes a secure connection between your computer and GitHub
 
 
 
