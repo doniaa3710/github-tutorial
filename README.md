@@ -69,7 +69,7 @@ _First add and commit_
 ---
 ## Rolling Back Changes   
 To undo any mistakes:   
-Undo edit: after you've made ab edit, you can undo it using `git checkout -- filename`  
+Undo edit: after you've made an edit, you can undo it using `git checkout -- filename`  
 Undo add: after you've added a change, you can undo it using `git reset HEAD filename`  
-Undo commit: after you've made a commit, undo it using `git reset --soft HEAD~1` or `git reset HEAD~1`
+Undo commit: after you've made a commit, undo it using `git reset --soft HEAD~1` to only undo a commit or `git reset HEAD~1` to undo a commit, add, and edit
 Undo push: after you've pushed to the remote undo it using `git reset --hard HEAD~1`
