@@ -5,11 +5,11 @@ _Donia Abdelhalim_
 ---
 ## Git vs. GitHub
 ##### The difference between **Git vs. GitHub**:  
-**Git** keeps snapshots/files of your code as a checkpoint of where you are. Having different versions would be useful because you may mess up your code, and you would be able to go back to the latest version. Git can also be known as a version control while **Github** would be the host for the repository. This means that the code will be stored. 
+**Git** keeps snapshots/files of your code as a checkpoint of where you are. Having different versions would be useful because you may mess up your code, and you would be able to go back to the any version. Git can also be known as a version control while **Github** would be the host for the repository. This means that the code will be stored. 
 
 _ALSO_:  
 **Git** does not require Github, but **GitHub** reguired Git.   
-**Github** visually tracks changes, collaborates easily on files and most importantly, stores code in the cloud 
+**Github** visually tracks changes, makes collaboration on files easy and most importantly, stores code in the cloud.
 
 
 ---
