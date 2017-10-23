@@ -15,8 +15,8 @@ _ALSO_:
 ---
 ## Initial Setup
 
-To create a **Github Account** would you start by:  
-* Type www.Github.com onto the URL or click on [Github](https://github.com/) to be directed 
+To create a **Github Account** you would start by:  
+* Type www.Github.com into the URL or click on [Github](https://github.com/) to be directed 
 * On the top right hand corner you will see an icon **Sign in or Sign up**  
 * Click **Sign up** or **log on** if you already have an account
 * Start by creating your personal account, make sure to include your username, a reachable email and password
