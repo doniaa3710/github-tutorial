@@ -61,10 +61,10 @@ _First add and commit_
 ---
 ## Workflow & Commands
 
-`git status`: command to see which files have been edited since the las commit  
-`git add`: add te file to the stage to be committed  
+`git status`: command to see which files have been edited since the last commit  
+`git add`: add the file to the stage to be committed  
 `git commit`: takes a 'snapshot' of the files on the stage. The message should be present-tense and describe what was modified in this snapshot  
-`git push`: push the commited file back up to the remote
+`git push`: push the committed file back up to the remote
 
 ---
 ## Rolling Back Changes   
