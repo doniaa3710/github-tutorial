@@ -32,22 +32,24 @@ After reading the guidelines, you can head back to the previous tab and **start 
 **You may be asked to confirm your email**  
 
 
-### How to your github to cloud9  
-1. Click on [cloud9](www.c9.io) to be directed 
+### How to your GitHub to cloud9  
+1. Go to www.c9.io to begin 
 2. Click on the image of the github "octocat" and sign in with your github account.
-3. Once you sign in you should be taken to your dashboard where you can see your workspaces.  
-   If not, press on "DASHBOARD" at the top of the screen.
-4. Press the gear icon in the top-right corner of the screen.
-5. On the left side, press "SSH Keys" **Make sure you do not copy HTTPS**
+3. Once you sign in, you should be directed to your dashboard where you can see your workspaces.  
+   **If not, press on "DASHBOARD" at the top of the screen.**
+4. Then press the gear icon in the top-right corner of the screen.
+5. On the left side, press "SSH Keys" **Make sure you do not copy HTTPS**  
+**SSH key:** stands for secure shell and establishes a secure connection between your computer and GitHub (a connection between GitHub and cloud9)
 6. Copy the second SSH key.
-7. On github, press on your profile picture and click "Settings" on the dropdown.
+7. On github, press on your profile picture and click "Settings"
 8. Press "SSH and GPG keys" on the left side and then the green button that says "New SSH key".
 9. Paste the SSH key under "key" and type "cloud9" as the title.  
 10. Click "Add SSH key".  
-11. To make sure it is working, go back to your terminal and type `ssh -T git@github.com`. You  
-    should see a message that says "Hi <your username>! You've successfully authenticated, but  
-    GitHub does not provide shell access."
-**_You have now finished setting yourself up to use cloud9 and github!_**
+11. To make sure it is working, go back to your terminal and type `ssh -T git@github.com`. You should see a message that says "Hi <your username>! You've successfully authenticated, but GitHub does not provide shell access."  
+
+ 
+
+#### **_You have now finished setting yourself up to use cloud9 and github!_**
 
 How to make a repo:  
 1. `cd ~/workspace`
@@ -55,7 +57,7 @@ How to make a repo:
 3. `cd filename` - goes into your file 
 4. `git init` - initalizes git in the directory  
 
-**SSH key:** stands for secure shell and establishes a secure connection between your computer and GitHub
+
 
 
 
@@ -72,7 +74,9 @@ _First add and commit_
 
 **New repo:**  
 1. Go to **Github.com**
-2. Create repository  
+2. On the top righthand corner, you should see a "+-". Click on the "+" and click New Repository  
+3. You will be asked for a Repository Name and continue
+4. You have now made your first repository
  
 **Remote: Now your remote is on github**
 
