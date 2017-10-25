@@ -23,7 +23,7 @@ To create a **Github Account** you would start by:
 * Start by creating your personal account, make sure to include your username, a reachable email and password
 * After continuting, click on the continue button again after picking the plan you would like to continue with.   
 [![https://gyazo.com/b68df993ef6c43ac2e7b93a032a58ff6](https://i.gyazo.com/b68df993ef6c43ac2e7b93a032a58ff6.gif)](https://gyazo.com/b68df993ef6c43ac2e7b93a032a58ff6)
-![here](git-welcome-page.png "GitHub Welcome Page") 
+
 
 #### **REMEMBER TO READ ALL DIRECTIONS**  
 * To enhance your experience with GitHub, answer a quick survey question as to who you are and submit your results. Don't worry you won't be graded on your experience!
@@ -40,8 +40,8 @@ You can now create your first repository.
 
 ### How to connect your GitHub to cloud9  
 1. Go to www.c9.io to begin 
-2. Click on the **Sign in** button on the top right hand corner
-![here](cloud9-login.png "cloud9 sign in")
+2. Click on the **Sign in** button on the top right hand corner  
+[![https://gyazo.com/f582b834d2e4850956ec1bf753478367](https://i.gyazo.com/f582b834d2e4850956ec1bf753478367.gif)](https://gyazo.com/f582b834d2e4850956ec1bf753478367)  
 3. Once you sign in, you should be directed to your dashboard where you can see your workspaces.  
    **If not, press on "DASHBOARD" at the top of the screen.**
 4. Then press the gear icon in the top-right corner of the screen.
