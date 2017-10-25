@@ -57,6 +57,8 @@ How to make a repo:
 3. `cd filename` - goes into your file 
 4. `git init` - initalizes git in the directory  
 
+##### **NEVER USE `git init` IN YOUR WORKSPACE**
+
 
 
 
@@ -95,3 +97,14 @@ Undo edit: after you've made an edit, you can undo it using `git checkout -- fil
 Undo add: after you've added a change, you can undo it using `git reset HEAD filename`  
 Undo commit: after you've made a commit, undo it using `git reset --soft HEAD~1` to only undo a commit or `git reset HEAD~1` to undo a commit, add, and edit
 Undo push: after you've pushed to the remote undo it using `git reset --hard HEAD~1`
+
+---
+## Error handling   
+
+ 
+* If you mistakenly use `git init` in your workspace, use `rm -rf .git` to go back into workspace first  
+* If you are not in workspace, `cd filename` into it
+* You must add and commit before you push
+* If you have an untracked file when commiting, you most likely didn't use `git add .` before commiting
+* If (master) isn't going away in your terminal, use `git init` until you are back in workspace
+* If you incorrectly write a code that brings you to tht '>', then use Control C to corrupt or end the program
