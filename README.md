@@ -18,14 +18,15 @@ _ALSO_:
 To create a **Github Account** you would start by:  
 * Type www.Github.com into the URL or click on [Github](https://github.com/) to be directed 
 * On the top right hand corner you will see an icon **Sign in or Sign up**  
-* Click **Sign up** or **log on** if you already have an account
-Click ![here](git-sign-up.png "GitHub Tutorial")
+* Click **Sign up** or **log on** if you already have an account  
+![here](git-sign-up.png "GitHub Tutorial")  
 * Start by creating your personal account, make sure to include your username, a reachable email and password
 * After continuting, click on the continue button again after picking the plan you would like to continue with. 
 
 #### **REMEMBER TO READ ALL DIRECTIONS**  
 * To enhance your experience with GitHub, answer a quick survey question as to who you are and submit your results. Don't worry you won't be graded on your experience!
 * Make sure you  **Read the Guide** if you are a new user or not!  
+![here](guide.docx "GitHub Homepage") 
 
 **NOTE**: you will be directed to a new tab explaining the basic fundementals and power of GitHub
 
@@ -59,10 +60,6 @@ How to make a repo:
 4. `git init` - initalizes git in the directory  
 
 ##### **NEVER USE `git init` IN YOUR WORKSPACE**
-
-
-
-
 
 
 ---
