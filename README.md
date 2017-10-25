@@ -15,7 +15,8 @@ _ALSO_:
 ---
 ## Initial Setup
 
-To create a **Github Account** you would start by:  
+To create a **Github Account** you would start by:   
+![here](sign-up.gif "GitHub Tutorial")
 * Type www.Github.com into the URL or click on [Github](https://github.com/) to be directed 
 * On the top right hand corner you will see an icon **Sign in or Sign up**  
 * Click **Sign up** or **log on** if you already have an account  
@@ -39,7 +40,8 @@ You can now create your first repository.
 
 ### How to connect your GitHub to cloud9  
 1. Go to www.c9.io to begin 
-2. Click on the image of the github "octocat" and sign in with your github account.
+2. Click on the **Sign in** button on the top right hand corner
+![here](cloud9-login.png "cloud9 sign in")
 3. Once you sign in, you should be directed to your dashboard where you can see your workspaces.  
    **If not, press on "DASHBOARD" at the top of the screen.**
 4. Then press the gear icon in the top-right corner of the screen.
@@ -117,3 +119,8 @@ Undo push: after you've pushed to the remote undo it using `git reset --hard HEA
 
 ## Collaboration  
 Intrestingly you are able to ctake someone else's repository, with permission of course, and edit it yourself. The pushes you have made will not effect the original programmer unless you request a pull request and they accept. Lets explain this in simpler terms:
+
+
+
+
+`git clone`: copy remote repository into current folder
