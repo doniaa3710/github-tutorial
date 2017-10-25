@@ -32,7 +32,7 @@ After reading the guidelines, you can head back to the previous tab and **start 
 **You may be asked to confirm your email**  
 
 
-### How to your GitHub to cloud9  
+### How to connect your GitHub to cloud9  
 1. Go to www.c9.io to begin 
 2. Click on the image of the github "octocat" and sign in with your github account.
 3. Once you sign in, you should be directed to your dashboard where you can see your workspaces.  
@@ -67,8 +67,9 @@ How to make a repo:
 ---
 ## Repository Setup
 
-Init: Initializes git in the repository  
-_First add and commit_  
+`git init`: Initializes git in the repository  
+
+Make sure to first add and commit 
 1. `touch README.md`  - create a file 
 2. Open `READMe.md`
 3. Add text
@@ -85,7 +86,7 @@ _First add and commit_
 ---
 ## Workflow & Commands
 
-`git status`: command to see which files have been edited since the last commit  
+`git status`: command to see which files have been edited since the last commit and to make sure you are up to date with everything  
 `git add`: add the file to the stage to be committed  
 `git commit`: takes a 'snapshot' of the files on the stage. The message should be present-tense and describe what was modified in this snapshot  
 `git push`: push the committed file back up to the remote
@@ -108,3 +109,10 @@ Undo push: after you've pushed to the remote undo it using `git reset --hard HEA
 * If you have an untracked file when commiting, you most likely didn't use `git add .` before commiting
 * If (master) isn't going away in your terminal, use `git init` until you are back in workspace
 * If you incorrectly write a code that brings you to tht '>', then use Control C to corrupt or end the program
+
+##### REMINDER: ALWAYS USE `git status` TO MAKE SURE YOU AR UP TO DATE
+
+---
+
+## Collaboration  
+Intrestingly you are able to ctake someone else's repository, with permission of course, and edit it yourself. The pushes you have made will not effect the original programmer unless you request a pull request and they accept. Lets explain this in simpler terms:
