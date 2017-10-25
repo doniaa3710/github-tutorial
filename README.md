@@ -26,7 +26,7 @@ To create a **Github Account** you would start by:
 #### **REMEMBER TO READ ALL DIRECTIONS**  
 * To enhance your experience with GitHub, answer a quick survey question as to who you are and submit your results. Don't worry you won't be graded on your experience!
 * Make sure you  **Read the Guide** if you are a new user or not!  
-![here](guide.docx "GitHub Homepage") 
+![here](git-homepage.png "GitHub Homepage") 
 
 **NOTE**: you will be directed to a new tab explaining the basic fundementals and power of GitHub
 
