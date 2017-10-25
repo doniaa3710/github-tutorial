@@ -14,17 +14,15 @@ _ALSO_:
 
 ---
 ## Initial Setup
-[![https://gyazo.com/8584fb3dd91917c5593090b011f3bef6](https://i.gyazo.com/8584fb3dd91917c5593090b011f3bef6.gif)](https://gyazo.com/8584fb3dd91917c5593090b011f3bef6)
 
 To create a **Github Account** you would start by:   
-![here](sign-in.gif "GitHub Tutorial")
 * Type www.Github.com into the URL or click on [Github](https://github.com/) to be directed 
 * On the top right hand corner you will see an icon **Sign in or Sign up**  
-![here](https://i.gyazo.com/8584fb3dd91917c5593090b011f3bef6.gif "GitHub Tutorial")  
 * Click **Sign up** or **log on** if you already have an account  
-![here](git-sign-up.png "GitHub Tutorial")  
+[![https://gyazo.com/8584fb3dd91917c5593090b011f3bef6](https://i.gyazo.com/8584fb3dd91917c5593090b011f3bef6.gif)](https://gyazo.com/8584fb3dd91917c5593090b011f3bef6)  
 * Start by creating your personal account, make sure to include your username, a reachable email and password
 * After continuting, click on the continue button again after picking the plan you would like to continue with.   
+[![https://gyazo.com/b68df993ef6c43ac2e7b93a032a58ff6](https://i.gyazo.com/b68df993ef6c43ac2e7b93a032a58ff6.gif)](https://gyazo.com/b68df993ef6c43ac2e7b93a032a58ff6)
 ![here](git-welcome-page.png "GitHub Welcome Page") 
 
 #### **REMEMBER TO READ ALL DIRECTIONS**  
