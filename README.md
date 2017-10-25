@@ -19,7 +19,7 @@ To create a **Github Account** you would start by:
 * Type www.Github.com into the URL or click on [Github](https://github.com/) to be directed 
 * On the top right hand corner you will see an icon **Sign in or Sign up**  
 * Click **Sign up** or **log on** if you already have an account
-Click ![here](git-sign-up.png)
+Click ![here](git-sign-up.png "GitHub Tutorial")
 * Start by creating your personal account, make sure to include your username, a reachable email and password
 * After continuting, click on the continue button again after picking the plan you would like to continue with. 
 
