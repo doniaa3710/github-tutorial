@@ -14,11 +14,13 @@ _ALSO_:
 
 ---
 ## Initial Setup
+[![https://gyazo.com/8584fb3dd91917c5593090b011f3bef6](https://i.gyazo.com/8584fb3dd91917c5593090b011f3bef6.gif)](https://gyazo.com/8584fb3dd91917c5593090b011f3bef6)
 
 To create a **Github Account** you would start by:   
-![here](file:///Users/doniaabdelhalim23/Desktop/sign-in-gif.gif "GitHub Tutorial")
+![here](sign-in.gif "GitHub Tutorial")
 * Type www.Github.com into the URL or click on [Github](https://github.com/) to be directed 
 * On the top right hand corner you will see an icon **Sign in or Sign up**  
+![here](https://i.gyazo.com/8584fb3dd91917c5593090b011f3bef6.gif "GitHub Tutorial")  
 * Click **Sign up** or **log on** if you already have an account  
 ![here](git-sign-up.png "GitHub Tutorial")  
 * Start by creating your personal account, make sure to include your username, a reachable email and password
