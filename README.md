@@ -32,7 +32,9 @@ To create a **Github Account** you would start by:
 **NOTE**: you will be directed to a new tab explaining the basic fundementals and power of GitHub
 
 After reading the guidelines, you can head back to the previous tab and **start a project.**    
-**You may be asked to confirm your email**  
+**You may be asked to confirm your email**   
+![here](new-repo.png "Making a Repository")
+You can now create your first repository.
 
 
 ### How to connect your GitHub to cloud9  
