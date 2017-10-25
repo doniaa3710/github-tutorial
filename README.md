@@ -19,6 +19,7 @@ To create a **Github Account** you would start by:
 * Type www.Github.com into the URL or click on [Github](https://github.com/) to be directed 
 * On the top right hand corner you will see an icon **Sign in or Sign up**  
 * Click **Sign up** or **log on** if you already have an account
+Click ![here](git-sign-up.png)
 * Start by creating your personal account, make sure to include your username, a reachable email and password
 * After continuting, click on the continue button again after picking the plan you would like to continue with. 
 
@@ -108,7 +109,7 @@ Undo push: after you've pushed to the remote undo it using `git reset --hard HEA
 * You must add and commit before you push
 * If you have an untracked file when commiting, you most likely didn't use `git add .` before commiting
 * If (master) isn't going away in your terminal, use `git init` until you are back in workspace
-* If you incorrectly write a code that brings you to tht '>', then use Control C to corrupt or end the program
+* If you incorrectly write a code that brings you to the '>', then use Control C to corrupt or end the program
 
 ##### REMINDER: ALWAYS USE `git status` TO MAKE SURE YOU AR UP TO DATE
 
