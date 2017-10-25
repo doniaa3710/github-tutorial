@@ -16,7 +16,7 @@ _ALSO_:
 ## Initial Setup
 
 To create a **Github Account** you would start by:   
-![here](sign-up.gif "GitHub Tutorial")
+![here](file:///Users/doniaabdelhalim23/Desktop/sign-in-gif.gif "GitHub Tutorial")
 * Type www.Github.com into the URL or click on [Github](https://github.com/) to be directed 
 * On the top right hand corner you will see an icon **Sign in or Sign up**  
 * Click **Sign up** or **log on** if you already have an account  
