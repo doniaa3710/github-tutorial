@@ -31,6 +31,24 @@ To create a **Github Account** you would start by:
 After reading the guidelines, you can head back to the previous tab and **start a project.**    
 **You may be asked to confirm your email**  
 
+
+### How to your github to cloud9  
+1. Click on [cloud9](www.c9.io) to be directed 
+2. Click on the image of the github "octocat" and sign in with your github account.
+3. Once you sign in you should be taken to your dashboard where you can see your workspaces.  
+   If not, press on "DASHBOARD" at the top of the screen.
+4. Press the gear icon in the top-right corner of the screen.
+5. On the left side, press "SSH Keys" **Make sure you do not copy HTTPS**
+6. Copy the second SSH key.
+7. On github, press on your profile picture and click "Settings" on the dropdown.
+8. Press "SSH and GPG keys" on the left side and then the green button that says "New SSH key".
+9. Paste the SSH key under "key" and type "cloud9" as the title.  
+10. Click "Add SSH key".  
+11. To make sure it is working, go back to your terminal and type `ssh -T git@github.com`. You  
+    should see a message that says "Hi <your username>! You've successfully authenticated, but  
+    GitHub does not provide shell access."
+**_You have now finished setting yourself up to use cloud9 and github!_**
+
 How to make a repo:  
 1. `cd ~/workspace`
 2. `mkdir filename` - makes the directory
