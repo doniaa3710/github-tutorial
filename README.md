@@ -70,13 +70,14 @@ How to make a repo:
 ---
 ## Repository Setup
 
+Make sure to first add and commit (see **Workflow & Commands**)
 `git init`: Initializes git in the repository  
-
-Make sure to first add and commit 
 1. `touch README.md`  - create a file 
 2. Open `READMe.md`
 3. Add text
 4. `git add .` - adds the file to the stage
+5. `git add remote origin URL` - creates the bridge between your local repository on cloud9 to your remote repository in github. 
+6.`git push -u origin master` - is used so that your remote repository will become the default place you push to. 
 
 **New repo:**  
 1. Go to **Github.com**
@@ -88,7 +89,7 @@ Make sure to first add and commit
 
 ---
 ## Workflow & Commands
-
+To send your local to remote repository, here are a few helpful handles:  
 `git status`: command to see which files have been edited since the last commit and to make sure you are up to date with everything  
 `git add`: add the file to the stage to be committed  
 `git commit`: takes a 'snapshot' of the files on the stage. The message should be present-tense and describe what was modified in this snapshot  
@@ -96,15 +97,14 @@ Make sure to first add and commit
 
 ---
 ## Rolling Back Changes   
-To undo any mistakes:   
+To undo any mistakes made in the terminal:   
 Undo edit: after you've made an edit, you can undo it using `git checkout -- filename`  
 Undo add: after you've added a change, you can undo it using `git reset HEAD filename`  
 Undo commit: after you've made a commit, undo it using `git reset --soft HEAD~1` to only undo a commit or `git reset HEAD~1` to undo a commit, add, and edit
 Undo push: after you've pushed to the remote undo it using `git reset --hard HEAD~1`
 
 ---
-## Error handling   
-
+## Error handling     
  
 * If you mistakenly use `git init` in your workspace, use `rm -rf .git` to go back into workspace first  
 * If you are not in workspace, `cd filename` into it
