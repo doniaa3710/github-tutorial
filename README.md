@@ -64,7 +64,8 @@ How to make a repo:
 3. `cd filename` - goes into your file 
 4. `git init` - initalizes git in the directory  
 
-##### **NEVER USE `git init` IN YOUR WORKSPACE**
+##### **NEVER USE `git init` IN YOUR WORKSPACE** 
+#### _Make sure to always a hyphen(-) symbol when making a directory, file, etc._
 
 
 ---
@@ -117,10 +118,3 @@ Undo push: after you've pushed to the remote undo it using `git reset --hard HEA
 
 ---
 
-## Collaboration  
-Intrestingly you are able to ctake someone else's repository, with permission of course, and edit it yourself. The pushes you have made will not effect the original programmer unless you request a pull request and they accept. Lets explain this in simpler terms:
-
-
-
-
-`git clone`: copy remote repository into current folder
